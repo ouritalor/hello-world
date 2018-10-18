@@ -1,2 +1,4 @@
 # hello-world
-repository to learn Github
+Repository to learn Github
+
+A changes can be commited with Master &  Branches
